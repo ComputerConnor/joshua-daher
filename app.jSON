@@ -2,7 +2,7 @@
     "@context" : "http://schema.org",
     "@type" : "Personal",
     "name" : "Joshua Daher",
-    "url" : "https://www.joshua-daher.com/",
+    "url" : "https://www.joshua-daher.netlify.app/",
     "sameAs" : [
         "https://demirramon.com/smg1"
     ]
